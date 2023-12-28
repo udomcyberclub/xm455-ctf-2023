@@ -1,6 +1,7 @@
 # xm455-ctf-2023
 
 ![xmss-ctf-2023](https://github.com/udomcyberclub/xm455-ctf-2023/blob/main/udom-xmass.png)
+<img src="https://github.com/udomcyberclub/xm455-ctf-2023/blob/main/udom-xmass.png" />
 
 ### Author of the challenges
 1. Samoh @cyb3rwolf
@@ -10,7 +11,7 @@
 ### The following are the write-up links
 
 ## Memory Forensics
-o https://medium.com/@sky__/memory-udom-x-m455-ctf-2023-writeup-a97e573f583d (Memory writeup by @SKY)
+o <a href="https://medium.com/@sky__/memory-udom-x-m455-ctf-2023-writeup-a97e573f583d"> (Memory writeup by @SKY) </a>
 
 ## Network Forensics
 o https://medium.com/@mbundaphilimon/welcome-to-udom-x-mass-ctf-network-forensics-write-up-a4d3434aa0b4 (Writeup by @MBUNDA)

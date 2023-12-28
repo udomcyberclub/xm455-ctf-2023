@@ -1,6 +1,6 @@
 # xm455-ctf-2023
 
-![xmss-ctf-2023]()https://github.com/udomcyberclub/xm455-ctf-2023/blob/main/udom-xmass.png
+![xmss-ctf-2023](https://github.com/udomcyberclub/xm455-ctf-2023/blob/main/udom-xmass.png)
 
 ### Author of the challenges
 1. Samoh @cyb3rwolf

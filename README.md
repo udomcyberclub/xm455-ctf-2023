@@ -9,10 +9,10 @@
 
 ### The following are the write-up links
 
-## Network Forensics
+## Memory Forensics
 o https://medium.com/@sky__/memory-udom-x-m455-ctf-2023-writeup-a97e573f583d (Memory writeup by @SKY)
 
-## Memory Forensics
+## Network Forensics
 o https://medium.com/@mbundaphilimon/welcome-to-udom-x-mass-ctf-network-forensics-write-up-a4d3434aa0b4 (Writeup by @MBUNDA)
 
 ## Steganography

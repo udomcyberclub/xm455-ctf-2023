@@ -29,9 +29,9 @@ o {santa-gift} <a href="https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023
 
 ## MISC
 o {Discord2} <a href="https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611">https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611</a> (writeup by @cyb3rwolf)
+o <a href="https://medium.com/@ericksanga1102/misc-udom-x-mass-ctf-2023-9801ce9cd6d4">https://medium.com/@ericksanga1102/misc-udom-x-mass-ctf-2023-9801ce9cd6d4</a> (Writeup by @ericksanga1102)
 
 ## Web
 o <a href="https://medium.com/@epaphrasmakoko/udom-x-m455-ctf-2023-a57b94308cf5">https://medium.com/@epaphrasmakoko/udom-x-m455-ctf-2023-a57b94308cf5</a> (writeup by @fxhacker) 
-
 
 

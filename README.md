@@ -28,7 +28,7 @@ o <a href="https://medium.com/@yaspihls1/hello-everyone-038acba2f41d">https://me
 o {santa-gift} <a href="https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d15700">https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d1570</a> (writeup by @Alexius)
 
 ## MISC
-o {Discord2} <a href="https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611">https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611</a> (writeup by @cyb3rwolf)
+o {Discord2} <a href="https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611">https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611</a> (writeup by @cyb3rwolf) <br>
 o <a href="https://medium.com/@ericksanga1102/misc-udom-x-mass-ctf-2023-9801ce9cd6d4">https://medium.com/@ericksanga1102/misc-udom-x-mass-ctf-2023-9801ce9cd6d4</a> (Writeup by @ericksanga1102)
 
 ## Web

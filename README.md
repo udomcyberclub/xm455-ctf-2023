@@ -34,4 +34,10 @@ o <a href="https://medium.com/@ericksanga1102/misc-udom-x-mass-ctf-2023-9801ce9c
 ## Web
 o <a href="https://medium.com/@epaphrasmakoko/udom-x-m455-ctf-2023-a57b94308cf5">https://medium.com/@epaphrasmakoko/udom-x-m455-ctf-2023-a57b94308cf5</a> (writeup by @fxhacker) 
 
+## Linux
+o <a href="https://hackmd.io/@drk-BULL37/H19CCqKPa">https://hackmd.io/@drk-BULL37/H19CCqKPa by@drk-BULL37 (deamon)</a> (writeup by by@drk-BULL37 (deamon))
+
+## Log Analysis
+o <a href="https://medium.com/@dadyoo360/l0g-4n4lys1s-w0rk-thr0ugh-ceb737cdf2e3">https://medium.com/@dadyoo360/l0g-4n4lys1s-w0rk-thr0ugh-ceb737cdf2e3</a> (writeup by colin_TZ)
+
 

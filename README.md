@@ -25,7 +25,8 @@ o Reverse (Chuma Chall) <a href="https://medium.com/@mastercode112/chuma-reverse
 o <a href="https://medium.com/@yaspihls1/hello-everyone-038acba2f41d">https://medium.com/@yaspihls1/hello-everyone-038acba2f41d</a> (writeup by .nobody#)
 
 ## Crypto
-o {santa-gift} <a href="https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d15700">https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d1570</a> (writeup by @Alexius)
+o {santa-gift} <a href="https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d15700">https://medium.com/@alexiussamson83/udom-x-m455-ctf-2023-062f83d1570</a> (writeup by @Alexius) <br>
+o <a href="https://medium.com/@iamallan66/udom-x-m455-ctf-hexa-based-crypto-challenge-write-up-48f51d831342">https://medium.com/@iamallan66/udom-x-m455-ctf-hexa-based-crypto-challenge-write-up-48f51d831342</a> (writeup by @Iamallan)
 
 ## MISC
 o {Discord2} <a href="https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611">https://medium.com/@cyb3rwolf/discord2-udom-x-m455-ctf-2023-59c21c6fd611</a> (writeup by @cyb3rwolf) <br>
@@ -39,5 +40,4 @@ o <a href="https://hackmd.io/@drk-BULL37/H19CCqKPa">https://hackmd.io/@drk-BULL3
 
 ## Log Analysis
 o <a href="https://medium.com/@dadyoo360/l0g-4n4lys1s-w0rk-thr0ugh-ceb737cdf2e3">https://medium.com/@dadyoo360/l0g-4n4lys1s-w0rk-thr0ugh-ceb737cdf2e3</a> (writeup by colin_TZ)
-
 
